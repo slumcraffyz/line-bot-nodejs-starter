@@ -13,8 +13,8 @@ Modify `config.json`
 ```json
 {
   "port" : "3000",
-  "channelAccessToken": "YOUR_CHANNEL_ACCESS_TOKEN",
-  "channelSecret": "YOUR_CHANNEL_SECRET"
+  "channelAccessToken": "1xygwai1tN1659lUO9zu7JMKwYf5f+32eCCYfoTpQMPzPJWoCO0JZvaqd73BJ5SHaKTFpEEev6XPos0JWHX4R/GtiD6DwgjqW60olDs0zZGF9yc9tFjZqcDwLdbBejfE8a8dqAdJW8RexRK59YgPbgdB04t89/1O/w1cDnyilFU=",
+  "channelSecret": "cfd77e89c11829ba213c430197e8426d"
 }
 ```
 Run
